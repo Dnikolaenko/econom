@@ -1,0 +1,27 @@
+<items>
+  <item active="true" u="0.18510832572424668" v="0.5266008415614715" type="Circle" url="" image="http://economtochka.com.ua/admin/contacts/uploads/ns koms 88.gif">
+    <description>ЗАО "Новый стиль"
+Комсомольское шоссе, 88, 
+ст.м. Холодная гора
+РЕЖИМ РАБОТЫ: Ежедневно - 9:00 - 18:00, суббота, воскр. - выходной</description>
+  </item>
+  <item active="true" u="0.18672698597161116" v="0.535766362538016" type="Circle" url="" image="http://economtochka.com.ua/admin/contacts/uploads/store88.jpg">
+    <description>"ЭкономМагазин" "Новый стиль"Комсомольское шоссе, 88, ст.м. Холодная гораРЕЖИМ РАБОТЫ: Ежедневно - 9:00 - 18:00, перерыв с 13 до 14, суббота, воскр. - выходной</description>
+  </item>
+  <item u="0.35542085686733715" v="0.3337174464162249" type="Metro" active="false"/>
+  <item u="0.24429443908711027" v="0.460889605899977" type="Metro" active="false"/>
+  <item u="0.3876107820177251" v="0.4867480986402397" type="Metro" active="false"/>
+  <item u="0.33154245304679253" v="0.4526388568794653" type="Metro" active="false"/>
+  <item u="0.4812416769986684" v="0.3917492509794884" type="Metro" active="false"/>
+  <item u="0.3810901409744226" v="0.38446646692786357" type="Metro" active="false"/>
+  <item u="0.3773247003719521" v="0.4453099792578935" type="Metro" active="false"/>
+  <item u="0.4683381549341048" v="0.45724821387416453" type="Metro" active="false"/>
+  <item u="0.5823116131698581" v="0.5411385111776907" type="Metro" active="false"/>
+  <item u="0.6557377049180328" v="0.5780133671352846" type="Metro" active="false"/>
+  <item u="0.581347293015567" v="0.38253053699008993" type="Metro" active="false"/>
+  <item u="0.6961473113835699" v="0.2774832910808942" type="Metro" active="false"/>
+  <item u="0.2883776461404234" v="0.4453099792578935" type="Metro" active="false"/>
+  <item u="0.5838146698962797" v="0.5223489807368619" type="Circle" active="true" url="" image="[class _SWFLoaderStyle__embed_css_Assets_swf___brokenImage_1607328696]">
+    <description>Сан-Сити 2, мебельный центр, 3 этаж, выставочный зал-магазин "ЭкономТочка". Режим работы : с 10-00 до 19-00 без перерыва и выходных.</description>
+  </item>
+</items>

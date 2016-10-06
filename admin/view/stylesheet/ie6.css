@@ -1,0 +1,11 @@
+#nav {
+	width: 800px;
+	position: relative;
+	left: 50%;
+	margin: 0;
+	padding: 0;
+	margin-left: 0px;
+	clear: both;
+	height: 40px;
+	float: left;
+}

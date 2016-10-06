@@ -1,0 +1,7 @@
+<config>
+	<services>
+		<service id="load" url="load.php" />
+		<service id="save" url="save.php" />
+		<service id="upload" url="upload.php" />
+	</services>
+</config>

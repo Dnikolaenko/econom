@@ -1,0 +1,95 @@
+#header {
+	position: relative;
+}
+#header .div1 {
+	height: 77px;
+}
+#header .contact {
+       font-size: medium;
+       float: left;
+}
+#header .div2 {
+	left: 277px;
+	float: left;
+}
+#header .div3 {
+	width: 268px;
+	height: 77px;
+	float: right;
+}
+#header .div4 .icon {
+	position: relative;
+	top: 12px;
+	margin-left: 0px;
+	margin-right: 4px;
+}
+#header .div4 .split {
+	position: relative;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#content {
+	float: left;
+	width: 580px;
+}
+#content .top {
+	clear: both;
+	width: 580px;
+}
+#content .middle {
+	clear: both;
+	display: block;
+	height: 380px;
+}
+#content .bottom {
+	clear: both;
+	width: 580px;
+	line-height: 5px;
+}
+.box {
+	float: left;
+	clear: both;
+	width: 100%;
+}
+.box .top {
+	float: left;
+	clear: both;
+	width: 100%;
+}
+.box .middle {
+	float: left;
+	clear: both;
+	width: 180px;
+	border-left: 1px solid #DDDDDD;
+	border-right: 1px solid #DDDDDD;	
+}
+.box .bottom {
+	line-height: 5px;
+	clear: both;
+	width: 100%;
+}
+.buttons {
+	clear: both;
+	width: 100%;
+}
+.cart {
+	border-collapse: collapse;
+	margin-bottom: 10px;
+	width: 558px;
+	border: 1px solid #EEEEEE;
+}
+#footer .footer-line {
+       font-size: medium;
+}
+#category_img .cat {
+       height: 38px;
+}
+a.button {
+	display: inline;
+}
+a.button span {
+	display: inline;
+}
+a:hover.button span {
+	display: inline;
+}

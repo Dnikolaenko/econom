@@ -1,0 +1,5 @@
+image/*
+system/cache/
+system/logs/
+.idea/
+nbproject/
